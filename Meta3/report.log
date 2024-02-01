@@ -1,0 +1,135 @@
+2023-12-11 18:05:07,445 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2023-12-11 18:05:26,268 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-11 18:05:26,522 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-11 18:05:27,766 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-11 18:05:27,935 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2023-12-11 18:17:35,554 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:17:47,466 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:17:59,986 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:18:15,114 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:18:30,092 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:18:54,960 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:19:11,849 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:19:25,472 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:19:37,307 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:19:49,991 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:20:14,034 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:20:35,971 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:20:56,990 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:21:16,657 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:21:35,730 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:21:49,913 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:22:02,409 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:22:15,344 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:22:27,194 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:22:39,241 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:22:59,822 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:23:14,921 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:23:30,411 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:23:45,720 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:24:02,582 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:24:21,586 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:24:36,890 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:24:51,474 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:25:06,662 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:25:21,171 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:25:45,091 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:26:06,666 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:26:27,719 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:26:48,848 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:27:09,520 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:27:25,906 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:27:38,160 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:27:50,979 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:28:03,341 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:28:14,921 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:28:33,534 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:28:47,706 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:29:03,321 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:29:17,578 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:29:32,671 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:29:54,010 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:30:13,785 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:30:31,324 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:30:49,586 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:31:09,336 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:31:24,569 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:31:36,401 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:31:48,935 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:32:01,369 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:32:13,468 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:32:29,416 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:32:41,243 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:32:54,206 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:33:07,008 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:33:18,767 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:33:41,231 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:34:00,465 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:34:19,892 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:34:39,455 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:34:59,554 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:35:19,239 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:35:31,381 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:35:43,863 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:35:55,800 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:36:08,402 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:36:26,959 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:46:28,626 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:46:56,978 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:47:24,501 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:47:55,698 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:48:26,108 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:48:47,450 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:49:03,668 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:49:17,767 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:49:32,513 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:49:47,519 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-11 18:50:12,830 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-15 23:48:54,354 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2023-12-15 23:51:02,526 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2023-12-15 23:51:02,790 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2023-12-15 23:51:05,763 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-15 23:54:35,311 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-15 23:54:35,632 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2023-12-16 16:13:43,750 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2023-12-16 16:13:50,158 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-16 16:17:07,328 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-16 16:17:08,162 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-16 16:17:08,512 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2023-12-16 16:26:09,532 - tensorflow - WARNING - Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,accuracy
+2023-12-16 18:02:29,699 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2023-12-16 18:02:35,024 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-16 18:02:35,911 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-16 18:02:36,676 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-16 18:02:37,112 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2023-12-16 19:20:27,549 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2023-12-16 19:20:33,085 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-16 19:20:36,049 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-16 19:20:36,666 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-16 19:20:37,385 - tensorflow - WARNING - From C:\Users\mikae\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
