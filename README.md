@@ -1,6 +1,4 @@
-# TP_IC_23_24
-
-Garbage Classification.
+# Garbage Classification.
 
 Trabalho de Inteligência Computacional - Matlab e Python - 23/24.
 
