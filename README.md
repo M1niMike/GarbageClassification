@@ -9,3 +9,5 @@ Meta 2 - Rede MLP em Python e Otimização de hiperparâmetros com algoritmos PS
 Meta 3 - Criação de uma rede CNN (VGG16) + Otimização de hiperparâmetros com GSA, Grid e Random search + Análise de testes.
 
 Integrantes: Micael Eid e Bruno Oliveira
+
+Nota: 80/100
